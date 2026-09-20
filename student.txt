@@ -1,0 +1,50 @@
+100001, Arjun Sharma, Computer Science, 3, 82.5, 91, A
+100002, Riya Verma, Information Technology, 2, 76.8, 87, B+
+100003, Kabir Singh, Mechanical Engineering, 4, 68.4, 79, B
+100004, Ananya Gupta, Computer Science, 1, 91.2, 96, A+
+100005, Rohan Mehta, Electronics, 5, 73.6, 84, B+
+100006, Priya Nair, Civil Engineering, 3, 64.9, 72, C+
+100007, Aditya Kumar, Information Technology, 6, 88.7, 93, A
+100008, Sneha Patel, Computer Science, 2, 79.3, 89, B+
+100009, Vikram Joshi, Mechanical Engineering, 7, 71.5, 81, B
+100010, Meera Iyer, Electronics, 4, 86.9, 95, A
+100011, Rahul Malhotra, Civil Engineering, 1, 59.8, 68, C
+100012, Ishita Rao, Computer Science, 2, 84.7, 92, A
+100013, Yash Thakur, Information Technology, 3, 67.2, 76, C+
+100014, Neha Kapoor, Electronics, 6, 81.6, 90, A
+100015, Karan Bhatia, Mechanical Engineering, 5, 74.3, 85, B+
+100016, Aarav Mishra, Computer Science, 7, 89.3, 86, A
+100017, Simran Kaur, Civil Engineering, 4, 75, 88, B+
+100018, Devansh Agarwal, Information Technology, 5, 70, 80, C
+100019, Pooja Sethi, Computer Science, 3, 89, 94, A
+100020, Manav Jain, Mechanical Engineering, 6, 90, 90, A
+100021, Tanya Saxena, Electronics, 2, 78.4, 83, B+
+100022, Harsh Vardhan, Civil Engineering, 3, 62.7, 74, C+
+100023, Nandini Joshi, Computer Science, 4, 90, 97, A+
+100024, Abhishek Rana, Information Technology, 5, 80.2, 89, A
+100025, Kavya Menon, Electronics, 1, 69.8, 80, B
+100026, Siddharth Roy, Mechanical Engineering, 7, 85.6, 91, A
+100027, Aditi Chawla, Civil Engineering, 2, 72.9, 86, B+
+100028, Mohit Saini, Computer Science, 6, 77.5, 82, B+
+100029, Isha Deshmukh, Information Technology, 3, 91.8, 95, A+
+100030, Varun Tiwari, Electronics, 4, 66.3, 71, C+
+100031, Muskan Yadav, Mechanical Engineering, 5, 83.1, 88, A
+100032, Nikhil Arora, Civil Engineering, 1, 58.6, 69, C
+100033, Rhea Mukherjee, Computer Science, 7, 87.4, 93, A
+100034, Sameer Khan, Information Technology, 4, 74.8, 90, B
+100035, Diya Kapoor, Electronics, 3, 95.1, 98, A+
+100036, Akash Pandey, Mechanical Engineering, 2, 80, 77, B
+100037, Ritika Sharma, Civil Engineering, 6, 79.7, 89, B+
+100038, Varun Malhotra, Computer Science, 5, 88.2, 92, A
+100039, Anjali Mehta, Information Technology, 1, 65, 75, C+
+100040, Rohit Bansal, Electronics, 7, 82.9, 87, A
+100041, Sakshi Jain, Mechanical Engineering, 3, 76.1, 84, B+
+100042, Ayush Srivastava, Civil Engineering, 4, 90, 79, B
+100043, Manya Khanna, Computer Science, 2, 90.6, 96, A+
+100044, Deepak Sharma, Information Technology, 6, 68.7, 73, C+
+100045, Ayesha Siddiqui, Electronics, 5, 85.3, 91, A
+100046, Rajat Gupta, Mechanical Engineering, 1, 61.9, 70, C+
+100047, Shreya Nair, Civil Engineering, 7, 80.8, 88, A
+100048, Ankit Verma, Computer Science, 4, 73.4, 83, B+
+100049, Palak Arora, Information Technology, 3, 92.1, 97, A+
+100050, Kunal Joshi, Electronics, 6, 90, 90, B+
