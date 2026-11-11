@@ -449,7 +449,7 @@ def admin_dash():
     elif query == 7:
         sum , lines = Admin.average(4)
         avergae = f"{(sum/lines):.2f}"
-        print("\nAverage Marks of",lines,"Students is",avergae,"%")
+        print("\nAverage Marks of",lines,"Students is",avergae,"%") 
         admin_dash()
     elif query == 8:
         sum , lines = Admin.average(5)
